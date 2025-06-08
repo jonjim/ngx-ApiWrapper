@@ -1,0 +1,23 @@
+{
+  "name": "ngx-apiwrapper",
+  "version": "1.0.4",
+  "description": "A wrapper for Angular's HttpClient for easy consumption of api endpoints",
+  "peerDependencies": {
+    "@angular/common": "^19.2.0",
+    "@angular/core": "^19.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonjim/ngx-ApiWrapper.git"
+  },
+  "author": "Jonathan Kane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonjim/ngx-ApiWrapper/issues"
+  },
+  "homepage": "https://github.com/jonjim/ngx-ApiWrapper#readme"
+}
